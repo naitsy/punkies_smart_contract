@@ -15,6 +15,3 @@ deploy()
         console.log(err);
         process.exit(1);
     });
-
-
-// 0x2F4228f09730a385002E876536726849A19e383A
